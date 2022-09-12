@@ -9,9 +9,8 @@ import LandingPage from "./LandingPage";
 import Services from "./Services";
 import ProjectCompleted from "./projectsCompleted";
 import Footer from "./footer";
-import Headers from "./headers";
 import TestHeader from "./testHeader";
-import OnGoingProject from "./ongoingProject";
+import OnGoingConst from "./onGoingConst";
 
 export default function Home() {
     return (
@@ -34,7 +33,7 @@ export default function Home() {
                 <ProjectCompleted />
             </section>
             <section class="projects" id="onGoing">
-                <OnGoingProject />
+                <OnGoingConst />
             </section>
             <section class="reviews">
                 <ReviewDemo />

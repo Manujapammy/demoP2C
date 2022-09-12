@@ -11,7 +11,7 @@ export default function Contact() {
                     <div class="col">
                         <h1 class="heading">  WHERE TO
                             <span> FIND US </span></h1>
-                        <div class="row">
+                        <div class="row addressRow">
                             <div class="col">
                                 <h4 class="contactAddressH4">Mandya Office</h4>
                                 <span className="contactAddressSpan"><span>P2 Construction ,<br></br> </span>
@@ -19,67 +19,57 @@ export default function Contact() {
                                         <span>Near Hosahalli Circle, Mandya-571401</span></span></span>
                             </div>
                             <div class="col">
-                                <h4 class="contactAddressH4">Bangalore Office</h4>
-                                <span className="contactAddressSpan"><span>P2 Construction ,<br></br> </span>
-                                    <span> Sri RaghavendraComplex <span>1st floor, 100ft.Road </span>
-                                        <span>Near Hosahalli Circle, Mandya-571401</span></span></span>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class="col">
                                 <h4 class="contactAddressH4">Mysore Office</h4>
                                 <span className="contactAddressSpan"><span>P2 Construction ,<br></br> </span>
                                     <span> Sri RaghavendraComplex <span>1st floor, 100ft.Road </span>
                                         <span>Near Hosahalli Circle, Mandya-571401</span></span></span>
                             </div>
-                            {/* <div class="col">
-                                <h4>Bangalore Office</h4>
-                                <span className="text"><span>P2 Construction , </span>
-                                    <span> Stock Building, Hosahalli, Mandya, Karnataka, India</span></span>
-                            </div> */}
                         </div>
+                       
                         <div>
                             <h1 class="heading"> STAY
                                 <span> CONNECTED </span></h1>
                             <div class="Home_contactinfos__3WQGA">
-                                <div class="Home_contactdtcover__HCNHX">
-                                    <div class="Home_leftctinfo__1V-0_">
-                                        <div class="contactUsDiv1">
-                                            <div style={{ boxSizing: "border-box", display: "block", maxWidth: "100%" }}>
-                                                <img alt="" aria-hidden="true" role="presentation"
-                                                    src="/images/Gmailimage.webp"
-                                                    class="contactImageStyle"
-                                                />
+                                <div class="row">
+                                    <div class="col">
+                                        <div class="Home_contactdtcover__HCNHX">
+                                            <div class="Home_leftctinfo__1V-0_">
+                                                <div class="contactUsDiv1">
+                                                    <div style={{ boxSizing: "border-box", display: "block", maxWidth: "100%" }}>
+                                                        <img alt="" aria-hidden="true" role="presentation"
+                                                            src="/images/Gmailimage.webp"
+                                                            class="contactImageStyle"
+                                                        />
+                                                    </div>
+                                                </div>
                                             </div>
-                                            {/* <img alt="Gmail" src=""
-                                            decoding="async"
-                                            style="visibility: inherit; position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%;"
-                                        /> */}
-                                        </div>
-                                    </div>
-                                    <div class="Home_rightctinfo__2nWLG">
-                                        <h4>Mail us at</h4>
-                                        <p>
-                                            <a href="mailto:p2Construction@gmail.com">p2Construction@gmail.com</a>
-                                        </p>
-                                    </div>
-                                </div>
-                                <div class="Home_contactdtcover__HCNHX">
-                                    <div class="Home_leftctinfo__1V-0_">
-                                        <div class="contactUsDiv1">
-                                            <div style={{ boxSizing: "border-box", display: "block", maxWidth: "100%" }}>
-                                                <img alt="" aria-hidden="true"
-                                                    role="presentation"
-                                                    src="/images/callUsimage.webp"
-                                                    class="contactImageStyle"
-                                                />
+                                            <div class="Home_rightctinfo__2nWLG">
+                                                <h4>Mail us at</h4>
+                                                <p>
+                                                    <a href="mailto:p2constructionmandya@gmail.com">p2construction@gmail.com</a>
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="Home_rightctinfo__2nWLG">
-                                        <h4>Contact Us</h4>
-                                        <p><a href="tel:+917090005600">(91) 9742131171</a>
-                                        </p>
+                                    <div className="col">
+                                        <div class="Home_contactdtcover__HCNHX">
+                                            <div class="Home_leftctinfo__1V-0_">
+                                                <div class="contactUsDiv1">
+                                                    <div style={{ boxSizing: "border-box", display: "block", maxWidth: "100%" }}>
+                                                        <img alt="" aria-hidden="true"
+                                                            role="presentation"
+                                                            src="/images/callUsimage.webp"
+                                                            class="contactImageStyle"
+                                                        />
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="Home_rightctinfo__2nWLG">
+                                                <h4>Contact Us</h4>
+                                                <p><a href="tel:+919742131171">(91) 9742131171</a>
+                                                </p>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
@@ -104,12 +94,12 @@ export default function Contact() {
                                     <span className="icon">
                                         <MailIcon />
                                     </span>
-                                    <span className="text"><a href="mailto:p2Construction@gmail.com">p2Construction@gmail.com</a><a href="mailto:info@example.com">info@example.com</a></span>
+                                    <span className="text"><a href="mailto:p2constructionmandya@gmail.com">p2constructionmandya@gmail.com</a><a href="mailto:info@example.com">info@example.com</a></span>
                                 </li>
                             </ul>
                         </div> */}
                     </div>
-                    <div class="col" style={{ paddingRight: "3rem" }}>
+                    <div class="col paddingFree" >
                         <form>
                             <h3>Get a <span> Free Consultation </span> </h3>
                             <div class="row">
