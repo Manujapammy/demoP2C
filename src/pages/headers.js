@@ -12,7 +12,7 @@ export default function Headers() {
                 </div>
                 <nav class="navbar"
                 >
-                    <a href="#home">Home</a>
+                    <a href="home">Home</a>
                     <a href="#about">About</a>
                     <a href="#services">Services</a>
                     <a href="#projects">Projects</a>

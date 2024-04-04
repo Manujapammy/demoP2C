@@ -22,22 +22,22 @@ export default function About() {
                 <div class="box-container">
 
                     <div class="box">
-                        <h3>10+</h3>
+                        <h3>8+</h3>
                         <p>years of experience</p>
                     </div>
 
                     <div class="box">
-                        <h3>1500+</h3>
+                        <h3>75+</h3>
                         <p>project completed</p>
                     </div>
 
                     <div class="box">
-                        <h3>790+</h3>
+                        <h3>75+</h3>
                         <p>satiesfied clients</p>
                     </div>
 
                     <div class="box">
-                        <h3>450+</h3>
+                        <h3>80+</h3>
                         <p>active workers</p>
                     </div>
                 </div>

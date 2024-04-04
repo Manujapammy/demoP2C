@@ -15,14 +15,14 @@ export default function Contact() {
                             <div class="col">
                                 <h4 class="contactAddressH4">Mandya Office</h4>
                                 <span className="contactAddressSpan"><span>P2 Construction ,<br></br> </span>
-                                    <span> Sri RaghavendraComplex <span>1st floor, 100ft.Road </span>
+                                    <span> Sri Raghavendra Complex, <span>1st floor, 100ft.Road, </span>
                                         <span>Near Hosahalli Circle, Mandya-571401</span></span></span>
                             </div>
                             <div class="col">
-                                <h4 class="contactAddressH4">Mysore Office</h4>
-                                <span className="contactAddressSpan"><span>P2 Construction ,<br></br> </span>
-                                    <span> Sri RaghavendraComplex <span>1st floor, 100ft.Road </span>
-                                        <span>Near Hosahalli Circle, Mandya-571401</span></span></span>
+                                <h4 class="contactAddressH4">Bangalore Office</h4>
+                                <span className="contactAddressSpan"><span>P2 Construction,<br></br> </span>
+                                    <span> 401/A, 80 feet road, <span> Hoysala Circle,  </span>
+                                        <span>K S town, Bangalore-560060</span></span></span>
                             </div>
                         </div>
                        
@@ -46,7 +46,8 @@ export default function Contact() {
                                             <div class="Home_rightctinfo__2nWLG">
                                                 <h4>Mail us at</h4>
                                                 <p>
-                                                    <a href="mailto:p2constructionmandya@gmail.com">p2construction@gmail.com</a>
+                                                    <a href="mailto:p2constructionmandya@gmail.com" 
+                                                    style={{fontSize:"larger"}}>p2constructionmandya@gmail.com</a>
                                                 </p>
                                             </div>
                                         </div>
@@ -66,7 +67,7 @@ export default function Contact() {
                                             </div>
                                             <div class="Home_rightctinfo__2nWLG">
                                                 <h4>Contact Us</h4>
-                                                <p><a href="tel:+919742131171">(91) 9742131171</a>
+                                                <p><a href="tel:+919742131171">(91) 8073096564</a>
                                                 </p>
                                             </div>
                                         </div>

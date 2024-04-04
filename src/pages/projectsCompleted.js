@@ -84,7 +84,7 @@ export default function ProjectCompleted() {
                     </div>
                     <div class="content">
                         <div class="info">
-                            <h3>Siddesh Suhan Nilaya</h3>
+                            <h3>Siddesh Nilaya</h3>
                             <p>construction, design</p>
                         </div>
                         <i class="fas fa-plus"></i>

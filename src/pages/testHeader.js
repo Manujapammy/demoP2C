@@ -70,7 +70,7 @@ export default function TestHeader() {
             
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav ">
-                    <a href="##home" class="nav-item nav-link active headertextColor">Home</a>
+                    <a href="#home" class="nav-item nav-link active headertextColor">Home</a>
                     <a href="#about" class="nav-item nav-link headertextColor">About</a>
                     <a href="#services" class="nav-item nav-link headertextColor">Services</a>
                     {/* <a href="#projects" class="nav-item nav-link headertextColor">Projects</a> */}
@@ -85,7 +85,7 @@ export default function TestHeader() {
                                  </ul>
                              </li>
                     <a href="#pricing" class="nav-item nav-link headertextColor">Packages</a>
-                    <a href="#contact" class="nav-item nav-link headertextColor">Contacts</a>
+                    <a href="#contact" class="nav-item nav-link headertextColor">Contact</a>
                 </div>
                 <div class="navbar-nav ms-auto">
                     <a href="#contact" class="nav-item nav-link p2ButtonStyle btnwidth headerButtonTextColor">GET FREE CONSULTANT</a>

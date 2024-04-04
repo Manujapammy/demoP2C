@@ -46,7 +46,7 @@ export default function Footer() {
                                 </li>
                                 <li>
                                     <span className="icon"><i className="fa fa-envelope" /></span>
-                                    <span className="text"><a href="mailto:p2constructionmandya@gmail.com">p2constructionmandya@gmail.com</a><a href="mailto:info@example.com">info@example.com</a></span>
+                                    <span className="text"><a href="mailto:p2constructionmandya@gmail.com">p2constructionmandya@gmail.com</a></span>
                                 </li>
                             </ul>
                         </div>

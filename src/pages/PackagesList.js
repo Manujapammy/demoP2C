@@ -6,7 +6,7 @@ export default function PackagesList() {
       <div class="accordion accordion-flush" id="accordionFlushExample">
         <div class="box-container">
           <div class="box">
-            <div><h5>ESSENTIAL</h5><h3>Rs.1650/*-Sq Ft</h3><div class="Home_packagescover__2aTub"></div></div>
+            <div><h5>ESSENTIAL</h5><h3>Rs.1800/*-Sq Ft</h3><div class="Home_packagescover__2aTub"></div></div>
             <div class="list packageLink">
               <ul>
                 <li>
@@ -419,7 +419,7 @@ export default function PackagesList() {
           </div>
 
           <div class="box">
-            <div><h5>PREMIUM</h5><h3>Rs.1850/*-Sq Ft</h3><div class="Home_packagescover__2aTub"></div></div>
+            <div><h5>PREMIUM</h5><h3>Rs.1950/*-Sq Ft</h3><div class="Home_packagescover__2aTub"></div></div>
             <div class="list packageLink">
               <ul>
                 <li>
@@ -844,7 +844,7 @@ export default function PackagesList() {
               class="p2ButtonStyle">Get a custom quote</a>
           </div>
           <div class="box">
-            <div><h5>LUXURIOUS</h5><h3>Rs.2050/*-Sq Ft</h3><div class="Home_packagescover__2aTub"></div></div>
+            <div><h5>LUXURIOUS</h5><h3>Rs.2100/*-Sq Ft</h3><div class="Home_packagescover__2aTub"></div></div>
             <div class="list packageLink">
               <ul>
                 <li>

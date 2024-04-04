@@ -17,7 +17,8 @@ export default function Services() {
                 <div class="box">
                     <img src="images/service-5.png" alt="" />
                     <h3>building renovation</h3>
-                    <p></p>
+                    <p>Revitalize your space with our premier building renovation services. From modernizing interiors to enhancing structural integrity, we specialize in transforming properties into stunning, functional spaces.</p>
+
 
                 </div>
 
