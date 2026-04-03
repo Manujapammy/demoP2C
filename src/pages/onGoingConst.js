@@ -2,12 +2,12 @@ import OnGoingProject from "./ongoingProject";
 
 export default function OnGoingConst() {
     let anugrahaNilaya = [
-        { img: 'images/pic6/image_m1.jpg', name: "image_m Nilaya" },
-        { img: 'images/pic6/image_m2.jpg', name: "Praveen" },
-        { img: 'images/pic6/image_m3.jpg', name: "Papegowdas" },
-        { img: 'images/pic6/image_m1.jpg', name: "Bhagya" },
-        { img: 'images/pic6/image_m2.jpg', name: "Papegowdas" },
-        { img: 'images/pic6/image_m3.jpg', name: "Bhagya" }
+        { img: 'images/pic6/image_m1.JPG', name: "image_m Nilaya" },
+        { img: 'images/pic6/image_m2.JPG', name: "Praveen" },
+        { img: 'images/pic6/image_m3.JPG', name: "Papegowdas" },
+        { img: 'images/pic6/image_m1.JPG', name: "Bhagya" },
+        { img: 'images/pic6/image_m2.JPG', name: "Papegowdas" },
+        { img: 'images/pic6/image_m3.JPG', name: "Bhagya" }
     ];
     let anakereNilaya = [
         { img: 'images/pic1/anakere8.jpg', name: "anakere Nilaya" },
