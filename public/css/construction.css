@@ -1142,26 +1142,31 @@ section {
 }
 
 .Home_rightctinfo__2nWLG {
-  display: inline-block;
-  vertical-align: top;
-  width: 75%;
-  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
-.Home_contactdtcover__HCNHX {
-  /* display: inline-block;
-  width: 50%; */
-  vertical-align: top;
-  margin: 5px -2px;
-  padding-right: 3%;
-  padding-left: 5rem;
+.Home_rightctinfo__2nWLG h4 {
+  font-size: 1.6rem;
+  margin: 5px 0;
+}
+
+.Home_rightctinfo__2nWLG p {
+  font-size: 1.4rem;
+  margin: 0;
+  word-break: break-word; /* fixes long email */
 }
 
 .Home_leftctinfo__1V-0_ {
-  display: inline-block;
-  vertical-align: top;
-  width: 25%;
-  padding-right: 12px;
+  width: auto;   /* fixed width */
+  flex-shrink: 0;
+}
+.Home_contactdtcover__HCNHX {
+  display: flex;
+  flex-direction: column;   /* stack icon + text */
+  align-items: center;      /* center everything */
+  text-align: center;
 }
 
 .Home_contactdtcover__HCNHX h4 {
@@ -1179,11 +1184,10 @@ section {
 }
 
 .contactImageStyle {
-  max-width: 100%;
-  display: block;
-  margin: 0px;
-  border: none;
-  padding: 0px;
+  width: 50px;
+  height: 50px;
+  object-fit: contain;
+  margin-bottom: 10px;
 }
 
 .footer .contact-information ul li .text span,
