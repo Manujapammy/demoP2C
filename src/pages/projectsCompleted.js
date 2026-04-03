@@ -18,12 +18,12 @@ export default function ProjectCompleted() {
         { img: 'images/pic2/cHouse6.jpg', name: "Bhagya" }
     ];
     let jeevanNilaya = [
-        { img: 'images/pic5/jeevan1.jpg', name: "jeevan Nilaya" },
-        { img: 'images/pic5/jeevan2.jpg', name: "Praveen" },
-        { img: 'images/pic5/jeevan3.jpg', name: "Papegowdas" },
-        { img: 'images/pic5/jeevan4.jpg', name: "Bhagya" },
-        { img: 'images/pic5/jeevan3.jpg', name: "Papegowdas" },
-        { img: 'images/pic5/jeevan4.jpg', name: "Bhagya" }
+        { img: 'images/pic5/jeevan1.JPG', name: "jeevan Nilaya" },
+        { img: 'images/pic5/jeevan2.JPG', name: "Praveen" },
+        { img: 'images/pic5/jeevan3.JPG', name: "Papegowdas" },
+        { img: 'images/pic5/jeevan4.JPG', name: "Bhagya" },
+        { img: 'images/pic5/jeevan3.JPG', name: "Papegowdas" },
+        { img: 'images/pic5/jeevan4.JPG', name: "Bhagya" }
     ];
     let kanasuNilaya = [
         { img: 'images/pic4/kanasu6.jpg', name: "kanasu Nilaya" },
