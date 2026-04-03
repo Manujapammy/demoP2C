@@ -14,13 +14,13 @@ export default function Contact() {
                         <div class="row addressRow">
                             <div class="col">
                                 <h4 class="contactAddressH4">Mandya Office</h4>
-                                <span className="contactAddressSpan"><span>P2 Construction ,<br></br> </span>
+                                <span className="contactAddressSpan"><span>P2 Builders and Developers,<br></br> </span>
                                     <span> Sri Raghavendra Complex, <span>1st floor, 100ft.Road, </span>
                                         <span>Near Hosahalli Circle, Mandya-571401</span></span></span>
                             </div>
                             <div class="col">
                                 <h4 class="contactAddressH4">Malavalli Office</h4>
-                                <span className="contactAddressSpan"><span>P2 Construction,<br></br> </span>
+                                <span className="contactAddressSpan"><span>P2 Builders and Developers,<br></br> </span>
                                     <span> Opposite to kalamma temple, <span> Near KSRTC bus stand,</span>
                                         <span>Mallavalli tq, Mandya-571430</span></span></span>
                             </div>

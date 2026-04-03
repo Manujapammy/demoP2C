@@ -18,7 +18,7 @@ export default function ProjectCompleted() {
         { img: 'images/pic2/cHouse6.jpg', name: "Bhagya" }
     ];
     let jeevanNilaya = [
-        { img: 'images/pic5/jeevan3.jpg', name: "jeevan Nilaya" },
+        { img: 'images/pic5/jeevan1.jpg', name: "jeevan Nilaya" },
         { img: 'images/pic5/jeevan2.jpg', name: "Praveen" },
         { img: 'images/pic5/jeevan3.jpg', name: "Papegowdas" },
         { img: 'images/pic5/jeevan4.jpg', name: "Bhagya" },

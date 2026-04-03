@@ -7,7 +7,7 @@ export default function Footer() {
             <div>
                 <div class="box-container">
                     <div class="logo">
-                        <img src="images/p2plogo.jpg" class="logo" style={{ width: "25%" }} alt="" />
+                        <img src="images/p2builderImageWithBlue.jpg" class="logo" style={{ width: "25%" }} alt="" />
                         <p class="footerDesc"
                         >P2Construction® Engineering Services is a Product Development Startup and integrated B2B Marketplace which makes On-Demand custom manufacturing services quick, risk-free and affordable for OEM’s, SME’s and Startups.</p>
                     </div>
@@ -37,7 +37,7 @@ export default function Footer() {
                             <ul>
                                 <li>
                                     <span className="icon"><i className="fa fa-map-marker" /></span>
-                                    <span className="text"><span>P2 Construction , </span>
+                                    <span className="text"><span>P2 Builders and Developers , </span>
                                         <span> Stock Building, Hosahalli, Mandya, Karnataka, India</span></span>
                                 </li>
                                 <li>
