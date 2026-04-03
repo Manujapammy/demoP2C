@@ -58,9 +58,9 @@ export default function TestHeader() {
         <div>
     <nav class="navbar navbar-expand-lg navbar-light">
         <div class="container-fluid">
-            <div class="d-flex">
+            <div class="d-flex align-items-center justify-content-between">
             <a href="#home">
-            <img src="images/newLogo.png"
+            <img src="images/p2builderImage.jpg"
              alt="logo" class="modal-sm w-50" />
             </a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
